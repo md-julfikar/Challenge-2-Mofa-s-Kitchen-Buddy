@@ -1,0 +1,13 @@
+1. Title: Pancakes
+   Description: Delicious homemade pancakes.
+   Instructions: Mix the ingredients and cook on medium heat.
+   Dish Type: Breakfast
+   Sweets: Yes
+   Ingredients: Flour (1 cup), Egg (1 whole), Milk (1 cup)
+
+2. Title: Salad
+   Description: Fresh and healthy salad.
+   Instructions: Chop the vegetables and mix.
+   Dish Type: Lunch
+   Sweets: No
+   Ingredients: Lettuce (1 bunch), Tomato (2), Cucumber (1)
